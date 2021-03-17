@@ -4,7 +4,7 @@
 
 ## Exemplo de estrutras:
 
-* ![] HTML
+*  HTML
 * JavaScript - HTML
-=====================================================
-<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+
+> Ícones feitos por [Freepik](https://www.flaticon.com/br/autores/freepik "Freepik") [Flaticon](https://www.flaticon.com/br/ "www.flaticon.com") 
