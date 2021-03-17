@@ -2,7 +2,7 @@
 
 # Olá, Mundo! / Hello Wolrd!
 
-## Exemplo de estrutras:
+## Exemplo de Estrutras:
 
 *  [HTML](https://github.com/renanairestic/Ola-Mundo/blob/826807113dbd0bb34e4bea2d6da156b93b00c0fd/site-exemplos/html/index.html 'Acesse o repositório')
 * [JavaScript - HTML](https://github.com/renanairestic/Ola-Mundo/blob/826807113dbd0bb34e4bea2d6da156b93b00c0fd/site-exemplos/js/index.html 'Acesse o repositório')
