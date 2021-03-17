@@ -1,6 +1,8 @@
+[![texto alternativo]( https://github.com/renanairestic/Ola-Mundo/blob/76fb3fe556f5dca67e3f5cad2dbf81b6cd2d2d85/assets/linkedin.png)](https://www.linkedin.com/in/renan-aires-tic/ "texto título")
+
 [![ssasa][1.1]][1]
-[1]: https://www.linkedin.com/in/renan-aires-tic/
-[1.1]: https://github.com/renanairestic/Ola-Mundo/blob/76fb3fe556f5dca67e3f5cad2dbf81b6cd2d2d85/assets/linkedin.png (texto título)
+[1]: 
+[1.1]: (texto título)
 # Olá, Mundo! / Hello Wolrd!
 
 ## Exemplo de estrutras:
