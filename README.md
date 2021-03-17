@@ -1,5 +1,3 @@
-# Olá, Mundo!
- Primeiro Repositório do curso de Git e GitHub
+# Olá, Mundo! / Hellow Wolrd!
 
- Repositório criado na aula do Curso em Vídeo
 
