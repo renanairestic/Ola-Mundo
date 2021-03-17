@@ -1,6 +1,6 @@
 [![][1.1]][1]
 [1]: https://www.linkedin.com/in/renan-aires-tic/
-[1.1]: './assets/linkedin.png' (texto título)
+[1.1]: (./assets/linkedin.png) (texto título)
 # Olá, Mundo! / Hello Wolrd!
 
 ## Exemplo de estrutras:
