@@ -5,9 +5,9 @@
 Sou etusiasta da TIC (_Tecnologia da Informação e Comunicação_)
 
 ## Minha jornada acadêmica,
-1 - Tecino Sub. em Informática (IFRN)
-2 - Graduação em Comunicação Social em Rádio e TV (UFRN)
-3 - Tecnólogo em Gestão da Tecnologia da Informação (IFSertão-PE)
+1. Tecino Sub. em Informática (IFRN)
+2. Graduação em Comunicação Social em Rádio e TV (UFRN)
+3. Tecnólogo em Gestão da Tecnologia da Informação (IFSertão-PE)
   - Atualmente em processo de conclusão, indo para o 6º período pendente apenas o Trabalho de conclusão de curso. Demais disciplinas foram adiantadas no decorrer da formação.
 
 Confira mais aqui [![Linkedin]( https://github.com/renanairestic/Ola-Mundo/blob/76fb3fe556f5dca67e3f5cad2dbf81b6cd2d2d85/assets/in.png)](https://www.linkedin.com/in/renan-aires-tic/ "Conecte-se")
