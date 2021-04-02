@@ -1,0 +1,42 @@
+
+html, body{
+  height: 100%;
+	margin: 8;
+	padding: 0;  
+  font-family: 'Roboto', sans-serif;
+}
+#rgb{
+  background-color: #2165BF;
+  color:#ffff;
+}
+#font{
+  font-family: 'Barlow', sans-serif;
+}
+
+.imgLogo{
+  height: 24px;
+}
+
+#customersTable{
+  border-collapse: collapse;
+}
+#customersTable td, #customersTable th{
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+#customersTable tr:nth-child(even){
+  background-color:  #f2f2f2;
+}
+#customersTable tr:hover {
+  background-color: rgb(180, 179, 179);
+}
+.iconsSocial{
+  margin:8px;
+}
+#customersTable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
