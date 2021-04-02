@@ -5,7 +5,7 @@
 Sou etusiasta da TIC (_Tecnologia da Informação e Comunicação_)
 
 ## Minha jornada acadêmica,
-**1. Tecino Sub. em Informática (IFRN)**
+**1. Técnico Sub. em Informática (IFRN)**
 
 **2. Graduação em Comunicação Social em Rádio e TV (UFRN)**
 
