@@ -17,7 +17,7 @@ Sou etusiasta da TIC (_Tecnologia da Informação e Comunicação_)
 [<img src='./assets/in.png' width='24px' />](https://www.linkedin.com/in/renan-aires-tic/ "Conecte-se") 
 
 
-## PEstudos:
+## Estudos:
 * [Evento Rocketseat NLW5 - trilha ReactNative ](https://github.com/renanairestic/NLW-5-ReactNative/tree/main/plantmanager)
 
 
