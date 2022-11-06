@@ -11,7 +11,7 @@ Outros interesses: Gestão, e-commerce, marketing.
 
 **2. Graduação em Comunicação Social em Rádio e TV (UFRN) - 2015**
 
-**3. Tecnólogo em Gestão da Tecnologia da Informação- GTI (IFSertão-PE) - previsão de conclusão 2021**
+**3. Tecnólogo em Gestão da Tecnologia da Informação- GTI (IFSertão-PE) - 2022**
     
    
 **Linkedin**:
@@ -32,4 +32,4 @@ Outros interesses: Gestão, e-commerce, marketing.
 
 ## Projeto Pessoal:
 Desenvolvi um App em React Native durante uma disciplina e transformei em TCC no curso Gestão da TI.  No TCC realizei a fase de Elicitação e Análise de Requisitos (Engenharia de Software) para o desenvolvimento de uma nova versão. 
-Sobre o App: App foi desenvolvido para servir como ferramenta para o profissional de Marketing afiliado.
+Sobre o App: App foi desenvolvido para servir como ferramenta profissional de Marketing afiliado.
